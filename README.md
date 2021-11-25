@@ -1,4 +1,6 @@
 # Prometheus-Operator
+![image](https://user-images.githubusercontent.com/47865329/143431547-811be9c9-f6e4-4d70-8f45-8faed31d32b6.png) 
+
 
 ## Grafana Dashboard:
 ![image](https://user-images.githubusercontent.com/47865329/143430153-874a61ae-f412-4212-8af2-ba9d7a8996aa.png)
